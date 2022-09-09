@@ -64,6 +64,8 @@ h2 {
     border-image-slice: 2;
 }
 
-small {
-    text-align: center;
+.mission {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
